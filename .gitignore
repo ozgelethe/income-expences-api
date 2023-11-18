@@ -1,0 +1,30 @@
+# Virtual environment
+exp/
+
+# Ignore compiled Python files
+# __pycache__/
+# *.pyc
+
+# Ignore Django migration files
+# *.db
+# *.sqlite3
+# /migrations/
+
+# Ignore local settings
+local_settings.py
+
+# Ignore media files
+# media/
+
+# Ignore static files
+# staticfiles/
+
+# Ignore environment variables file
+.env
+
+# Ignore IDE-specific files
+# .vscode/
+# *.pyc
+
+# Ignore logs
+*.log
