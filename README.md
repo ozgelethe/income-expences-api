@@ -3,7 +3,7 @@
 <p align="center">
   <h3 align="center">User Authentication Web App</h3>
     <p align="center">
-   This broject is aimed at solving the nuances involved in creating a user authentication end to end with django and also
+   This project is aimed at solving the nuances involved in creating a user authentication end to end with django and also
   shows how to create user profiles using signals 
     </p>
 </p>
